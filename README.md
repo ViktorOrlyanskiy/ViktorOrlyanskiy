@@ -1,7 +1,7 @@
 ![Header](https://github.com/ViktorOrlyanskiy/ViktorOrlyanskiy/blob/main/assets/label.jpg)
 
 
-Я Junior Frontend-разработчик. Самостоятельное обучение начал в мае 2021 года. Разрабатывал пока только учебные проекты, мечтаю попасть в профессиональную команду разработчиков. Владею следующими технологиями: HTML, CSS(SASS), JavaScript, React, GitHub. 
+Я Junior Frontend-разработчик. Самостоятельное обучение начал в мае 2021 года. Разрабатывал учебные проекты, мечтаю попасть в профессиональную команду разработчиков. Владею следующими технологиями: HTML, CSS(SASS), JavaScript, React, GitHub. 
 ___
 projects
 ___
