@@ -1,7 +1,7 @@
 ![Header](https://github.com/ViktorOrlyanskiy/ViktorOrlyanskiy/blob/main/assets/label.jpg)
 
 
-Я Junior Frontend-разработчик. Самостоятельное обучение начал в мае 2021 года. Разрабатывал учебные проекты, мечтаю попасть в профессиональную команду разработчиков. 
+Я Frontend-разработчик. Самостоятельное обучение начал в мае 2021 года. Разрабатывал учебные проекты, мечтаю попасть в профессиональную команду разработчиков. 
 
 ##### Languages and Tools
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3) ![SASS](https://img.shields.io/badge/SASS-000000?style=for-the-badge&logo=sass) ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript) ![REACT](https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react) ![GIT](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git)
@@ -36,7 +36,7 @@ ___
 [![page](https://img.shields.io/badge/page-000000?style=for-the-badge)](https://viktororlyanskiy.github.io/website_windows/) [![repository](https://img.shields.io/badge/repository-000000?style=for-the-badge)](https://github.com/ViktorOrlyanskiy/website_windows) ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3)
 
 ###### Counter Calories App --- Приложения для расчета суточной калорийности
-[![page](https://img.shields.io/badge/page-000000?style=for-the-badge)](https://github.com/ViktorOrlyanskiy/counter-calories) [![repository](https://img.shields.io/badge/repository-000000?style=for-the-badge)](https://viktororlyanskiy.github.io/counter-calories/) ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript)
+[![page](https://img.shields.io/badge/page-000000?style=for-the-badge)](https://viktororlyanskiy.github.io/counter-calories/) [![repository](https://img.shields.io/badge/repository-000000?style=for-the-badge)](https://github.com/ViktorOrlyanskiy/counter-calories) ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript)
 
 ___
 
