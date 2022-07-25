@@ -13,7 +13,7 @@ ___
 (кнопки page и repository кликабельные)
 
 ###### React Tools Shop --- Демо магазин с авторизацией
-[![page](https://img.shields.io/badge/page-000000?style=for-the-badge)](https://tools-shop-27051994.web.app/) [![repository](https://img.shields.io/badge/repository-000000?style=for-the-badge)](https://github.com/ViktorOrlyanskiy/tools-shop) ![REACT](https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react) ![REDUX](https://img.shields.io/badge/REDUX-000000?style=for-the-badge&logo=redux) ![FIREBASE](https://img.shields.io/badge/FIREBASE-000000?style=for-the-badge&logo=firebase)
+[![page](https://img.shields.io/badge/page-000000?style=for-the-badge)](https://tools-shop-27051994.web.app) [![repository](https://img.shields.io/badge/repository-000000?style=for-the-badge)](https://github.com/ViktorOrlyanskiy/tools-shop) ![REACT](https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react) ![REDUX](https://img.shields.io/badge/REDUX-000000?style=for-the-badge&logo=redux) ![FIREBASE](https://img.shields.io/badge/FIREBASE-000000?style=for-the-badge&logo=firebase)
 
 ###### React Weather App --- Приложение для получения прогноза погоды 
 [![page](https://img.shields.io/badge/page-000000?style=for-the-badge)](https://viktororlyanskiy.github.io) [![repository](https://img.shields.io/badge/repository-000000?style=for-the-badge)](https://github.com/ViktorOrlyanskiy/react-weather) ![REACT](https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react)
