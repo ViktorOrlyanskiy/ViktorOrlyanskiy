@@ -9,6 +9,7 @@
 ___
 ##### Projects
 Расположены в порядке уменьшения значимости 
+
 \* зеленые кнопки кликабельные
 
 ###### Fitness App --- Приложение для тренировок в фитнес зале
@@ -51,4 +52,4 @@ ___
 
 т.к. у меня есть приватные репозитории, то по ним не отображается сontribution activity.
 
-![Footer](https://github.com/ViktorOrlyanskiy/ViktorOrlyanskiy/blob/main/assets/footer.jpg)
+![Footer](https://github.com/ViktorOrlyanskiy/ViktorOrlyanskiy/blob/main/assets/footer.JPG)
