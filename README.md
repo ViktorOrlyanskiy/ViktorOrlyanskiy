@@ -4,6 +4,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3) ![SASS](https://img.shields.io/badge/SASS-000000?style=for-the-badge&logo=sass) ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript) ![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logo=typescript) ![REACT](https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react) ![REDUX](https://img.shields.io/badge/REDUX-000000?style=for-the-badge&logo=redux) ![FIREBASE](https://img.shields.io/badge/FIREBASE-000000?style=for-the-badge&logo=firebase) ![GIT](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorOrlyanskiy&layout=compact)](https://github.com/ViktorOrlyanskiy/github-readme-stats)
+
 \* Без учета приватных репозиториев
 ___
 ##### Projects
@@ -48,6 +49,6 @@ ___
 
 ___
 
-Т.к. у меня есть приватные репозитории, то по ним не отображается сontribution activity.
+т.к. у меня есть приватные репозитории, то по ним не отображается сontribution activity.
 
-![Footer](https://github.com/ViktorOrlyanskiy/ViktorOrlyanskiy/blob/main/assets/label.jpg)
+![Footer](https://github.com/ViktorOrlyanskiy/ViktorOrlyanskiy/blob/main/assets/footer.jpg)
